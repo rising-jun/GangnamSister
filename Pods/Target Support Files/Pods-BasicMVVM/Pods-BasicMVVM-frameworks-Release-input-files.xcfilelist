@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-BasicMVVM/Pods-BasicMVVM-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxAnimated/RxAnimated.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxGesture/RxGesture.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/RxViewController/RxViewController.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
